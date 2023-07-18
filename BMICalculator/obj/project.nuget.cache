@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "jVcgd6eEzYaKICPim9sutQ5BhsIvCFFqXKC/6QwfGgHGt+5MRzMe4nLrkFVu2/V+dcMvsiglx3Q9cM/wMm4yJQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Administrator\\source\\repos\\BMICalculator\\BMICalculator\\BMICalculator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrator\\.nuget\\packages\\communitytoolkit.mvvm\\8.2.1\\communitytoolkit.mvvm.8.2.1.nupkg.sha512"
+  ],
+  "logs": []
+}
